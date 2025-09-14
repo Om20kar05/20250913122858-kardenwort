@@ -1,0 +1,101 @@
+	Algorithmen	Algorithmus	
+	Änderungsabfragen	Änderungsabfrage	
+	Apache-Module	Apache-Modul	
+	Archivdateien	Archivdatei	
+	Audiodaten	Audiodaten	
+	Ausdrücke	Ausdruck	
+	Aussageformen	Aussageform	
+	Austernbanken	Austernbanke	
+	Auswahlabfragen	Auswahlabfrage	
+	Bedürfnisse	Bedürfnis	
+	besonderer	besondere	
+	Bilddaten	Bilddaten	
+	Bilder	Bild	
+	BPMN-Diagramme	BPMN-Diagramm	
+	Bytes	Byte	
+	Daten	Daten	bibliografische Daten
+	Datenbanken	Datenbank	
+	Datenbanktype	Datenbanktyp	
+	Dienste	Dienst	
+	Dolibarr	Dolibarr	
+	Donaudampfschifffahrtsgesellschaftskapitäne	Donaudampfschifffahrtsgesellschaftskapitän	
+	Donaudampfschifffahrtsgesellschaftskapitänes	Donaudampfschifffahrtsgesellschaftskapitän	
+	Donaudampfschifffahrtsgesellschaftskapitäns	Donaudampfschifffahrtsgesellschaftskapitän	
+	Dritte	Dritte	
+	DSL-Dienste	DSL-Dienst	
+	effizienter	effizient	
+	Einbetten	Einbetten	
+	Empfangen	Empfang	
+	Englischen	Englisch	
+	erster	erste	
+	festlesen	festlesen	
+	Funktionsebenen	Funktionseben	
+	gefallen	gefallen	Ihnen
+	Geschäftsprozesse	Geschäftsprozess	
+	Gleichungssystemen	Gleichungssystem	
+	HTML-Dokumenten	HTML-Dokument	
+	HTTP-Statuscodes	HTTP-Statuscode	
+	Ihnen	Ihnen	
+	Ihr	Ihr	regex:(?<!^)Ihr
+	Ihre	Ihr	
+	Ihrer	Ihr	
+	Internet-Serverdienste	Internet-Serverdienst	
+	Klassen	Klasse	
+	Materialien	Material	
+	Mathematische	mathematisch		
+	Matrizen	Matrize	
+	Module	Modul	
+	Multimedia-Dateiformate	Multimedia-Dateiformat	
+	Netzwerken	Netzwerk	
+	NoSQL-Datenbanken	NoSQL-Datenbank	
+	Objektorientierte	objektorientiert	
+	Pipes	Pipe	
+	Rechenmaschinen	Rechenmaschine	
+	Schädlinge	Schädling	
+	Serviceseiten	Serviceseite	
+	Sie	Sie	regex:(?<!^)Sie
+	Sprachgrundlagen	Sprachgrundlage	
+	SQL-Abfragen	SQL-Abfrage	
+	Stylesheet-Wertangaben	Stylesheet-Wertangabe	
+	Substantive	Substantiv	
+	Substantiven	Substantiv	
+	Textbasierte	textbasiert	
+	Textdaten	Textdaten	
+	Threads	Thread	
+	Übungsaufgaben	Übungsaufgabe	
+	Verzeichnisdienste	Verzeichnisdienst	
+	Webseiten	Webseite	
+	Webspezifische	webspezifisch	
+	Windows	Windows	
+	Würm	Wurm	
+	Würmer	Wurm	
+	Zeichensätze	Zeichensatz	
+	Zugangs	Zugang	
+aller		all	
+Beispiele		Beispiel	
+Betriebs		Betrieb	
+Date	regex:(?i)\w*daten\w*	Daten	
+digitale		digital	
+Eingabegerat		Eingabegeräte	
+ethernet		Ethernet	
+Geräte		Gerät	
+IP-Adressen		IP-Adresse	
+IP-Netzwerken		IP-Netzwerk	
+Künstliche		künstlich	
+Lineare		linear	
+Logistische		logistisch	
+Netzwerke		Netzwerk	
+Netzwerkkarten		Netzwerkkarte	
+Netzzugangsverfahr		Netzzugangsverfahren	
+PC-Betriebssysteme		PC-Betriebssystem	
+Sachverhalte		Sachverhalt	
+Simulationen		Simulation	
+Soundhardwar		Soundhardware	
+Stan		Standard	
+Systembefehle		Systembefehl	
+Systeme		System	
+Transportprotokolle		Transportprotokoll	
+vieler		viel	
+Zugangs		Zugang	
+zusammengesetzte		zusammengesetzt	
+Zusammengesetzte		zusammengesetzt	
