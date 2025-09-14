@@ -8,7 +8,7 @@
 ; Both absolute and relative paths are supported.
 ; A relative path (like the example below) is calculated from the location of this config.ini file.
 ; This is useful for keeping the virtual environment next to the project folder, making the setup fully portable.
-python_executable = ../20250825231214-spacy-env/Scripts/python.exe
+python_executable = ../20250914043440-kardenwort-spacy-env/Scripts/python.exe
 
 ; The main workspace directory for the kardenwort project.
 ; Use './' to specify that the workspace is the same directory
